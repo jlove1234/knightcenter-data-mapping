@@ -17,3 +17,4 @@ table_real <- separate(table_content,1, into=c("County", "Precinct"), sep = ": "
   
 # Print the table 
 head(table_content)
+view(table_content)
