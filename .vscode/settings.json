@@ -6,5 +6,6 @@
     "editor.minimap.enabled": false,
     "cSpell.enabled": false,
     "workbench.activityBar.iconClickBehavior": "focus",
-    "workbench.colorTheme": "Sunburst"
+    "workbench.colorTheme": "Sunburst",
+    "r.rterm.mac": "radian"
 }
